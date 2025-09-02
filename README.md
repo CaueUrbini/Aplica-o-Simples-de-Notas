@@ -93,5 +93,4 @@ Confirmação de Exclusão: Adicione uma confirmação via JavaScript antes de e
 
 ---
 
-*Projeto Dual Bradesco 2025 - Universidade Anhembi Morumbi*
-
+*Projeto Dual Bradesco 2025 - U
