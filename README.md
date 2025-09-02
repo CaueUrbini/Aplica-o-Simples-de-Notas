@@ -90,7 +90,3 @@ Confirmação de Exclusão: Adicione uma confirmação via JavaScript antes de e
 - **JSON**
 - **HTML**
 - **CSS**
-
----
-
-*Projeto Dual Bradesco 2025 - U
