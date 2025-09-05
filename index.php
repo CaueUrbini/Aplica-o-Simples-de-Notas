@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Setando a hora local de Sapo Paulo
+// Setando a hora local de Sao Paulo
 date_default_timezone_set('America/Sao_Paulo');
 
 define('NOTES_FILE', 'notes.json');
